@@ -1,0 +1,43 @@
+p{
+    color:rgb(250, 114, 137);
+
+ background-color:rgb(255, 255, 255);
+
+    font-family:rgb(129, 1, 1);
+
+    font-size:x-large;
+
+    font-weight: lighter;
+
+    text-align:initial
+    }
+    .classeMargin{
+        margin: 20px;
+    }
+    .classePadding{
+        padding: 20px;
+    }
+
+.imagem1{
+    position: absolute;
+    left: 10px;
+    top: 1500px;
+}
+.imagem2{
+    position:absolute;
+    left: 10px;
+    top: 2000px;
+}
+.imagem3{
+    position:absolute;
+    left:10px;
+}
+.padding{
+    padding: 40px;
+    padding-bottom: 20px;
+    background-color: aqua;
+}
+.margin{
+
+    
+}

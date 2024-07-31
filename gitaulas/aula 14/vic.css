@@ -1,0 +1,15 @@
+.vic{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.vv{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.mari{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}

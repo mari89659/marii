@@ -1,0 +1,7 @@
+ <style>
+    .corazul {color:blue;}
+    .textobrancocomfundopreto{color:white;
+    background-color: black;}
+    .letragrandeenegrito{font-size: 30px;
+    font-weight: bold; }
+    </style>
